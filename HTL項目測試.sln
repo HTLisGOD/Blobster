@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTL項目測試", "HTL項目測試\HTL項目測試.csproj", "{78929934-EE4C-4951-B35B-8E0126DA1B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78929934-EE4C-4951-B35B-8E0126DA1B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78929934-EE4C-4951-B35B-8E0126DA1B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78929934-EE4C-4951-B35B-8E0126DA1B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78929934-EE4C-4951-B35B-8E0126DA1B06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12B86B81-2EAE-4C89-914C-03836B624974}
+	EndGlobalSection
+EndGlobal
